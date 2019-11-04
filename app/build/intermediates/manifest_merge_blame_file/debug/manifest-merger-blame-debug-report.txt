@@ -11,7 +11,7 @@
 9-->F:\AndroidStudioProjects\hello9\app\src\main\AndroidManifest.xml
 10
 11    <application
-11-->F:\AndroidStudioProjects\hello9\app\src\main\AndroidManifest.xml:5:5-22:19
+11-->F:\AndroidStudioProjects\hello9\app\src\main\AndroidManifest.xml:5:5-25:19
 12        android:allowBackup="true"
 12-->F:\AndroidStudioProjects\hello9\app\src\main\AndroidManifest.xml:6:9-35
 13        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
@@ -47,6 +47,9 @@
 28        <activity android:name="com.zj.hello.AdActivity" />
 28-->F:\AndroidStudioProjects\hello9\app\src\main\AndroidManifest.xml:20:9-47
 28-->F:\AndroidStudioProjects\hello9\app\src\main\AndroidManifest.xml:20:19-45
-29    </application>
-30
-31</manifest>
+29        <activity android:name="com.zj.hello.LoginActivity" />
+29-->F:\AndroidStudioProjects\hello9\app\src\main\AndroidManifest.xml:21:9-50
+29-->F:\AndroidStudioProjects\hello9\app\src\main\AndroidManifest.xml:21:19-48
+30    </application>
+31
+32</manifest>

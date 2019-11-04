@@ -1,11 +1,12 @@
 -- Merging decision tree log ---
 manifest
-ADDED from F:\AndroidStudioProjects\hello9\app\src\main\AndroidManifest.xml:2:1-24:12
-INJECTED from F:\AndroidStudioProjects\hello9\app\src\main\AndroidManifest.xml:2:1-24:12
-INJECTED from F:\AndroidStudioProjects\hello9\app\src\main\AndroidManifest.xml:2:1-24:12
-INJECTED from F:\AndroidStudioProjects\hello9\app\src\main\AndroidManifest.xml:2:1-24:12
+ADDED from F:\AndroidStudioProjects\hello9\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from F:\AndroidStudioProjects\hello9\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from F:\AndroidStudioProjects\hello9\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from F:\AndroidStudioProjects\hello9\app\src\main\AndroidManifest.xml:2:1-27:12
 MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\f6a183f8595ca34f3d5cc99d1f8bc322\appcompat-1.0.2\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\8392647ca9531c13a8f0d6b7ad086e7e\constraintlayout-1.1.3\AndroidManifest.xml:2:1-11:12
+MERGED from [com.jakewharton:butterknife:8.2.1] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\8cd071fc4de267a55425c54a7de3072c\jetified-butterknife-8.2.1\AndroidManifest.xml:2:1-7:12
 MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\4f37a040d795d0eef135b10b20545e3f\fragment-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\d382ba9b8c9ea9d7b43a9cfaea0ecdf4\vectordrawable-animated-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\abc680e55824c418c024460e31034ed4\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
@@ -31,25 +32,25 @@ MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Lenovo\.gradl
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\66e997bde0b6ece28f7fd36f5f4a1584\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\8787729f29cf7add1bc29c81caccddfd\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\d4ef17d609918d2a5f5a86d1ea02678f\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
-INJECTED from F:\AndroidStudioProjects\hello9\app\src\main\AndroidManifest.xml:2:1-24:12
-INJECTED from F:\AndroidStudioProjects\hello9\app\src\main\AndroidManifest.xml:2:1-24:12
-INJECTED from F:\AndroidStudioProjects\hello9\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from F:\AndroidStudioProjects\hello9\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from F:\AndroidStudioProjects\hello9\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from F:\AndroidStudioProjects\hello9\app\src\main\AndroidManifest.xml:2:1-27:12
 	package
 		ADDED from F:\AndroidStudioProjects\hello9\app\src\main\AndroidManifest.xml:3:5-27
 		INJECTED from F:\AndroidStudioProjects\hello9\app\src\main\AndroidManifest.xml
 		INJECTED from F:\AndroidStudioProjects\hello9\app\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from F:\AndroidStudioProjects\hello9\app\src\main\AndroidManifest.xml
-		ADDED from F:\AndroidStudioProjects\hello9\app\src\main\AndroidManifest.xml:2:1-24:12
+		ADDED from F:\AndroidStudioProjects\hello9\app\src\main\AndroidManifest.xml:2:1-27:12
 		INJECTED from F:\AndroidStudioProjects\hello9\app\src\main\AndroidManifest.xml
 	android:versionCode
 		INJECTED from F:\AndroidStudioProjects\hello9\app\src\main\AndroidManifest.xml
-		ADDED from F:\AndroidStudioProjects\hello9\app\src\main\AndroidManifest.xml:2:1-24:12
+		ADDED from F:\AndroidStudioProjects\hello9\app\src\main\AndroidManifest.xml:2:1-27:12
 		INJECTED from F:\AndroidStudioProjects\hello9\app\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from F:\AndroidStudioProjects\hello9\app\src\main\AndroidManifest.xml:2:11-69
 application
-ADDED from F:\AndroidStudioProjects\hello9\app\src\main\AndroidManifest.xml:5:5-22:19
+ADDED from F:\AndroidStudioProjects\hello9\app\src\main\AndroidManifest.xml:5:5-25:19
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\8392647ca9531c13a8f0d6b7ad086e7e\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\8392647ca9531c13a8f0d6b7ad086e7e\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
 MERGED from [androidx.core:core:1.0.1] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\72b2b92ec4ab73ff21fb9bc348de3b22\core-1.0.1\AndroidManifest.xml:22:5-89
@@ -92,6 +93,10 @@ activity#com.zj.hello.AdActivity
 ADDED from F:\AndroidStudioProjects\hello9\app\src\main\AndroidManifest.xml:20:9-47
 	android:name
 		ADDED from F:\AndroidStudioProjects\hello9\app\src\main\AndroidManifest.xml:20:19-45
+activity#com.zj.hello.LoginActivity
+ADDED from F:\AndroidStudioProjects\hello9\app\src\main\AndroidManifest.xml:21:9-50
+	android:name
+		ADDED from F:\AndroidStudioProjects\hello9\app\src\main\AndroidManifest.xml:21:19-48
 uses-sdk
 INJECTED from F:\AndroidStudioProjects\hello9\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from F:\AndroidStudioProjects\hello9\app\src\main\AndroidManifest.xml
@@ -100,6 +105,8 @@ MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\Lenovo\.gradle\caches\
 MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\f6a183f8595ca34f3d5cc99d1f8bc322\appcompat-1.0.2\AndroidManifest.xml:20:5-44
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\8392647ca9531c13a8f0d6b7ad086e7e\constraintlayout-1.1.3\AndroidManifest.xml:5:5-7:41
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\8392647ca9531c13a8f0d6b7ad086e7e\constraintlayout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [com.jakewharton:butterknife:8.2.1] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\8cd071fc4de267a55425c54a7de3072c\jetified-butterknife-8.2.1\AndroidManifest.xml:5:5-43
+MERGED from [com.jakewharton:butterknife:8.2.1] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\8cd071fc4de267a55425c54a7de3072c\jetified-butterknife-8.2.1\AndroidManifest.xml:5:5-43
 MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\4f37a040d795d0eef135b10b20545e3f\fragment-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\4f37a040d795d0eef135b10b20545e3f\fragment-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\d382ba9b8c9ea9d7b43a9cfaea0ecdf4\vectordrawable-animated-1.0.0\AndroidManifest.xml:20:5-44
